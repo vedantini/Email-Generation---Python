@@ -15,8 +15,8 @@ df = df.dropna()
 
 port = 587  # For starttls
 smtp_server = "smtp.gmail.com"
-sender_email = "vedantinibogawat@gmail.com"
-password = "kdilljhhfjfyyxzf"
+sender_email = "ved@gmail.com" #add your email here
+password = "kdilf"             #add your google account key here
 
 #read the dataframe
 for i in df.index:
